@@ -1,5 +1,7 @@
 # Match Notifier Bot
+
 A Telegram bot for Showing PL live result , table ,top scorers ,fixtures and all related to Football Matches
+
 ## Tech Stack :technologist:
 
 * Python
@@ -23,13 +25,10 @@ Check it ➡️
 
 * [ ] Notification for Game Starts and Goal Score
 
-
 ## Sample Screenshots 📸
 
-![Demo #1](./image/README/1679918386410.png)
-![Demo #2](./image/README/1679918409886.png)
-![Demo #3](./image/README/1679918442876.png)
-![Demo #4](./image/README/1679918451169.png)
+| ![Demo #1](./image/README/1679918386410.png) | ![Demo #2](./image/README/1679918409886.png) | ![Demo #3](./image/README/1679918442876.png) | ![Demo #4](./image/README/1679918451169.png) |
+| :----------------------------------------: | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
 
 ## Want to colaborate
 
